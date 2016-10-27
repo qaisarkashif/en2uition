@@ -1,0 +1,111 @@
+/* Shapes types and colors */
+
+/* Colors */
+.shape-blue
+{
+	background-color:#00aeff;	
+}
+.shape-yellow
+{
+	background-color:#ffea00;	
+}
+.shape-green
+{
+	background-color:#6aa047;	
+}
+.shape-red
+{
+	background-color:#bd1212;	
+}
+
+/* shapes types */
+.shape-hexagon
+{
+	background-image:url(../img/shapes/hexagon.png) !important;
+	background-position:center center;
+}
+.shape-triangle
+{
+	background-image:url(../img/shapes/triangle.png) !important;
+	background-position:center center;
+}
+.shape-square
+{
+	background-image:url(../img/shapes/square.png) !important;
+	background-position:center center;
+}
+.shape-circle
+{
+	background-image:url(../img/shapes/circle.png) !important;
+	background-position:center center;
+}
+.shape-ellipse
+{
+	background-image:url(../img/shapes/ellipse.png) !important;
+	background-position:center center;
+}
+.shape-rectangle
+{
+	background-image:url(../img/shapes/rectangle.png) !important;
+	background-position:center center;
+}
+.shape-trapezium
+{
+	background-image:url(../img/shapes/trapezium.png) !important;
+	background-position:center center;
+}
+.shape-pentagon
+{
+	background-image:url(../img/shapes/pentagon.png) !important;
+	background-position:center center;
+}
+.shape-pentagram
+{
+	background-image:url(../img/shapes/pentagram.png) !important;
+	background-position:center center;
+}
+.shape-semi_circle
+{
+	background-image:url(../img/shapes/semi_circle.png) !important;
+	background-position:center center;
+}
+.shape-ovate
+{
+	background-image:url(../img/shapes/ovate.png) !important;
+	background-position:center center;
+}
+.shape-cardioid
+{
+	background-image:url(../img/shapes/cardioid.png) !important;
+	background-position:center center;
+}
+.shape-kite
+{
+	background-image:url(../img/shapes/kite.png) !important;
+	background-position:center center;
+}
+.shape-crescent
+{
+	background-image:url(../img/shapes/crescent.png) !important;
+	background-position:center center;
+}
+.shape-deltoid
+{
+	background-image:url(../img/shapes/deltoid.png) !important;
+	background-position:center center;
+}
+.shape-octagon
+{
+	background-image:url(../img/shapes/octagon.png) !important;
+	background-position:center center;
+}
+.shape-rhombus
+{
+	background-image:url(../img/shapes/rhombus.png) !important;
+	background-position:center center;
+}
+.shape-parallelogram
+{
+	background-image:url(../img/shapes/parallelogram.png) !important;
+	background-position:center center;
+}

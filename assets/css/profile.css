@@ -1,0 +1,50 @@
+/* always show vertical scrollbar, so center block doesn't change width when rotating images */
+html {
+	overflow-y: scroll;
+}
+
+.main-container
+{
+	 padding-bottom:250px;
+}
+.fixed-block {
+	position: fixed;
+	margin-left:0px;
+	padding-bottom:11px
+}
+
+.top-block {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.fixed-block.right-side, .fixed-block.left-side {
+	top: 276px;
+}
+
+.fixed-block.left-side {
+	margin-left: 15px;
+}
+
+.fixed-block.right-side {
+	margin-left: 790px;
+}
+
+.comments-block {
+	margin-left: 220px;
+	z-index: 1;
+}
+
+.top-block {
+	z-index: 5000;
+	background-color: white;
+	margin-top:-1px;
+}
+
+.main {
+	position: relative;
+}
+.comments-box
+{
+	padding-bottom:50px;
+}

@@ -1,0 +1,36 @@
+/* always show vertical scrollbar, so center block doesn't change width when rotating images */
+html {
+	overflow-y: scroll;
+}
+
+
+.fixed-block {
+	position: fixed;
+	margin-left:0px;
+}
+
+
+
+.fixed-block.right-side {
+	margin-left: 775px;
+}
+
+
+.fixed-block.left-side {
+	margin-left: 5px;
+}
+
+
+.comments {
+	margin-left: 205px;
+	z-index: 1;
+}
+
+.comments-box
+{
+	padding-bottom:50px;
+}
+
+.photo-page .comments-box {
+	min-height: 230px;
+}
