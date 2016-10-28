@@ -167,5 +167,9 @@ function getIntersectionPoints(R1, R2, X1, Y1, X2, Y2)
 	//console.log(" Line: "+AX+" "+AY);	
 	return [AX, AY];
 }
-function calThreeCircleIntersection(x0, y0, r0, x1, y1, r1, x2, y2, r2)
-{}
+function calThreeCircleIntersection()
+{
+	var C1 = getIntersectionPoints(R1, R2, X1, Y1, X2, Y2);
+	var C2 = getIntersectionPoints(R1, R2, X1, Y1, X2, Y2);
+	var C3 = getIntersectionPoints(R1, R2, X1, Y1, X2, Y2);
+}

@@ -145,25 +145,25 @@ $this->load->view('questionnaire/head', $header_data);
                     	<td align="center" style="position:relative;">
                         	<canvas id="fb-y" width="400" height="400"></canvas>
                             <div class="venncirctop outer">
-                                <a class="venntxttop" href="#"><?=lang("qa_passion");?></a>
+                                <a class="venntxttop"><?=lang("qa_passion");?></a>
                             </div>
                             <div class="venncircrt outer">
-                                <a class="venntxtrt" href="#"><?=lang("qa_intimacy");?></a>
+                                <a class="venntxtrt"><?=lang("qa_intimacy");?></a>
                             </div>
                             <div class="venncircbtm outer">
-                                <a class="venntxtbtm" href="#"><?=lang("qa_commitment");?></a>
+                                <a class="venntxtbtm"><?=lang("qa_commitment");?></a>
                             </div>
                         </td>
                     	<td align="center" style="position:relative;">
                         	<canvas id="fb-yp" width="400" height="400"></canvas>
                             <div class="venncirctop outer">
-                                <a class="venntxttop" href="#"><?=lang("qa_passion");?></a>
+                                <a class="venntxttop"><?=lang("qa_passion");?></a>
                             </div>
                             <div class="venncircrt outer">
-                                <a class="venntxtrt" href="#"><?=lang("qa_intimacy");?></a>
+                                <a class="venntxtrt"><?=lang("qa_intimacy");?></a>
                             </div>
                             <div class="venncircbtm outer">
-                                <a class="venntxtbtm" href="#"><?=lang("qa_commitment");?></a>
+                                <a class="venntxtbtm"><?=lang("qa_commitment");?></a>
                             </div>
                         </td>
                     </tr>

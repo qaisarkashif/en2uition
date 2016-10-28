@@ -3145,6 +3145,7 @@ a#see_unanswered.not-affect:hover { background:#0B1917 !important; }
 	color:#000;
 	font-size:18px;
 	z-index:1000;
+	cursor:default !important;
 }
 .venncirctop a.venntxttop {
 	position: absolute;
